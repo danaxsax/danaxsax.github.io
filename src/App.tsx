@@ -168,13 +168,13 @@ function App() {
             <div className="project-card">
               <div className="project-image">
                 {/* Replace src with your actual screenshot */}
-                <img src="/images/ecobici.png" alt="Ecobici Mobility Platform screenshot" />
+                <img src="/images/ecobici.jpg" alt="Ecobici Mobility Platform screenshot" />
               </div>
               <div className="project-body">
                 <div className="project-header">
                   <h3>Ecobici Mobility Platform</h3>
                   <div className="project-links">
-                    <a href="https://github.com/danaxsax" target="_blank" rel="noreferrer" className="project-link" aria-label="Source code">
+                    <a href="https://github.com/hugramirez/ecobici-dlm" target="_blank" rel="noreferrer" className="project-link" aria-label="Source code">
                       <GitHubIcon />
                     </a>
                   </div>
@@ -194,16 +194,16 @@ function App() {
             <div className="project-card">
               <div className="project-image">
                 {/* Replace src with your actual screenshot */}
-                <img src="/images/ayuda-dinero.png" alt="Ayuda debo dinero screenshot" />
+                <img src="/images/hack.jpeg" alt="Ayuda debo dinero screenshot" />
               </div>
               <div className="project-body">
                 <div className="project-header">
                   <h3>Ayuda debo dinero</h3>
                   <div className="project-links">
-                    <a href="https://github.com/danaxsax" target="_blank" rel="noreferrer" className="project-link" aria-label="Source code">
+                    <a href="https://github.com/Blayt05/HackMty2025" target="_blank" rel="noreferrer" className="project-link" aria-label="Source code">
                       <GitHubIcon />
                     </a>
-                    <a href="https://example.com" target="_blank" rel="noreferrer" className="project-link" aria-label="Live demo">
+                    <a href="https://devpost.com/software/ayuda-debo-dinero?_gl=1*td2lmr*_gcl_au*MTIwMzY4MDEwOS4xNzY1MjIzNTkx*_ga*MTY2ODQ4NzI3My4xNzY1MjIzNTkx*_ga_0YHJK3Y10M*czE3Njc3Mjc5ODkkbzIkZzEkdDE3Njc3Mjg5NzYkajM4JGwwJGgw" target="_blank" rel="noreferrer" className="project-link" aria-label="Live demo">
                       <LaunchIcon />
                     </a>
                   </div>
@@ -251,7 +251,7 @@ function App() {
             <div className="project-card">
               <div className="project-image">
                 {/* Replace src with your actual screenshot */}
-                <img src="/images/deepracer.png" alt="AWS DeepRacer robot screenshot" />
+                <img src="/images/aws.jpeg" alt="AWS DeepRacer robot screenshot" />
               </div>
               <div className="project-body">
                 <div className="project-header">
@@ -286,9 +286,11 @@ function App() {
             <p className="section-subtitle">
               Have a project in mind or just want to say hello? I'd love to hear from you.
             </p>
+            <link> 
             <a href="mailto:cyrcedeveloper@gmail.com" className="btn-primary">
               <EmailIcon fontSize="small" /> Send an Email
             </a>
+            </link>
             <div className="contact-socials">
               <a href="https://github.com/danaxsax" target="_blank" rel="noreferrer" className="social-link" aria-label="GitHub">
                 <GitHubIcon />
